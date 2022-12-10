@@ -1,0 +1,8 @@
+C:\Users\Giga\source\repos\MergeApp\MergeApp\bin\Debug\MergeApp.exe.config
+C:\Users\Giga\source\repos\MergeApp\MergeApp\bin\Debug\MergeApp.exe
+C:\Users\Giga\source\repos\MergeApp\MergeApp\bin\Debug\MergeApp.pdb
+C:\Users\Giga\source\repos\MergeApp\MergeApp\obj\Debug\MergeApp.csproj.AssemblyReference.cache
+C:\Users\Giga\source\repos\MergeApp\MergeApp\obj\Debug\MergeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giga\source\repos\MergeApp\MergeApp\obj\Debug\MergeApp.csproj.CoreCompileInputs.cache
+C:\Users\Giga\source\repos\MergeApp\MergeApp\obj\Debug\MergeApp.exe
+C:\Users\Giga\source\repos\MergeApp\MergeApp\obj\Debug\MergeApp.pdb
